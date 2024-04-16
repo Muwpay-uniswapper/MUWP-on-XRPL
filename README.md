@@ -2,6 +2,8 @@
 
 ## MUWP: XRPL Integration
 
+The repository includes tools and scripts for managing cross-chain swaps, utilizing XRPL's features for secure and efficient transactions.
+
 ## Features
 - **Cross-Chain Swaps**: Utilize bridges and atomic swaps for efficient asset transfers.
 - **XRPL Features**: Employ XRPL's transaction and ledger capabilities for secure, complex transactions.
