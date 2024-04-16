@@ -3,14 +3,14 @@
 ## MUWP: XRPL Integration
 
 ## Features
-Cross-Chain Swaps: Utilize bridges and atomic swaps for efficient asset transfers.
-XRPL Features: Employ XRPL's transaction and ledger capabilities for secure, complex transactions.
-AI-Driven Optimization: Optimize swap routes using AI for the best transaction rates.
+- **Cross-Chain Swaps: Utilize bridges and atomic swaps for efficient asset transfers.
+- **XRPL Features: Employ XRPL's transaction and ledger capabilities for secure, complex transactions.
+- **AI-Driven Optimization: Optimize swap routes using AI for the best transaction rates.
 
 ## Getting Started
-Connect Wallet: Securely link your blockchain wallet to MUWP.
-Select Tokens: Choose the tokens you wish to swap and the target (XRP).
-Swap Execution: MUWP displays optimal routes, execute the swap with user confirmation
+1. **Connect Wallet: Securely link your blockchain wallet to MUWP.
+2. **Select Tokens: Choose the tokens you wish to swap and the target (XRP).
+3. **Swap Execution: MUWP displays optimal routes, execute the swap with user confirmation
 
 ## Learn More
 For detailed documentation and API references, visit [MUWP Docs](https://docs.muwp.xyz/).
